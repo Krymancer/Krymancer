@@ -1,11 +1,12 @@
 # Krymancer
-Eu comecei a programar por volta de 2014, com 13 anos, minha primeira experiencia com programação foi utilizando [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language)). De la pra ca são 6 anos que eu venho incessantemente praticando e aprendendo mais, hoje eu posso dizer que tenho conhecimento avançado em diversas langs, porém as que eu mais uso são: [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript), [C++](https://pt.wikipedia.org/wiki/C%2B%2B), [C](https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)) e [Python](https://python.org.br/). Apesar de conhecer e ja ter experiencia em varias outras, eu majoritariamente utilizo estas para todos os meus projetos. 
 
-Meu foco atualmente tem voltado para Inteligencia Artificial e Machine Learning, mas minha paixão sempre vai ser resolver problemas da maneira mais eficiente possivél, tanto que para tal adoro usar langs que me dão poder como C++ e Rust, as vezes ate Assembly.
+## Hello there 👋
 
-Instagram: [junior.nasmc](https://www.instagram.com/junior.nascm/) \
-Linkedin: [junior-nascm](https://www.linkedin.com/in/junior-nascm/) \
-Portifolio: [Juni.io](https://krymancer.github.io/portfolio/)
-Resume: [Lattes](http://lattes.cnpq.br/0407199034556221)
+I am a programmer and a future computer engineer.
+Passionate about artificial intelligence and science.
 
-"Nunca se tratou sobre escrever, numa se tratou sobre saber usar as palavras certas, sempre foi a sensação de no final, ter criado algo, e funcionado"
+📫 Contact-me:
+
+[![Linkedin Badge](https://user-images.githubusercontent.com/37513299/87187628-dbc8c280-c2c3-11ea-9d4d-35d3df4eb011.png)](https://www.linkedin.com/in/junior-nascm/)
+[![Gmail Badge](https://user-images.githubusercontent.com/37513299/87187655-e84d1b00-c2c3-11ea-81c3-01ef30767656.png)](mailto:junior.nascm@gmail.com)
+[![Instagram Badge](https://user-images.githubusercontent.com/37513299/87187653-e71bee00-c2c3-11ea-83ff-5f86db00ae15.png)](https://www.instagram.com/junior.nascm/)
