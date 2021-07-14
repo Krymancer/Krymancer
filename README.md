@@ -13,10 +13,3 @@ I really love C++, as it my "mother language", but really amazed with the things
 [![Gmail Badge](https://user-images.githubusercontent.com/37513299/87187655-e84d1b00-c2c3-11ea-81c3-01ef30767656.png)](mailto:junior.nascm@gmail.com)
 [![Instagram Badge](https://user-images.githubusercontent.com/37513299/87187653-e71bee00-c2c3-11ea-83ff-5f86db00ae15.png)](https://www.instagram.com/junior.nascm/)
 
----
-### 🐱 Github stats:
-![Junior's github stats](https://github-readme-stats.vercel.app/api?username=krymancer&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krymancer&layout=compact&hide=shell&theme=dark)](https://github.com/krymancer)
-
-----
