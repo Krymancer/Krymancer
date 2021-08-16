@@ -13,3 +13,4 @@ I really love C++, as it my "mother language", but really amazed with the things
 [![Gmail Badge](https://user-images.githubusercontent.com/37513299/87187655-e84d1b00-c2c3-11ea-81c3-01ef30767656.png)](mailto:junior.nascm@gmail.com)
 [![Instagram Badge](https://user-images.githubusercontent.com/37513299/87187653-e71bee00-c2c3-11ea-83ff-5f86db00ae15.png)](https://www.instagram.com/junior.nascm/)
 
+![Snake animation](https://github.com/rafaballerini/krymancer/blob/output/github-contribution-grid-snake.svg)
