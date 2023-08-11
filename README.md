@@ -6,4 +6,8 @@ Over the years, I have honed my programming skills and expanded my knowledge of 
 
 Whether I'm working on a complex project or exploring new ideas in my spare time, my love for science and technology continues to drive me forward. I am excited to see what the future holds and to be a part of the exciting advancements that are sure to come.
  
-![Snake animation](https://github.com/krymancer/krymancer/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
