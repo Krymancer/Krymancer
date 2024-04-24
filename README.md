@@ -1,13 +1,30 @@
 # Júnior Nascimento
 
-As a developer who has always been fascinated by the wonders of science, I am thrilled to be able to combine my two passions and create innovative solutions that make a positive impact on the world. From a young age, I was always captivated by the beauty and complexity of the natural world, and I quickly became enamored with the endless possibilities that technology presented.
+## 🤔 Who am I?
 
-Over the years, I have honed my programming skills and expanded my knowledge of the latest advancements in science and technology. From developing algorithms for data analysis to building cutting-edge applications that leverage the power of machine learning, I am constantly seeking out new ways to use my skills to push the boundaries of what is possible.
+Hi, I'm a 24yo crazy brazilian guy who loves to code and make cool stuff
 
-Whether I'm working on a complex project or exploring new ideas in my spare time, my love for science and technology continues to drive me forward. I am excited to see what the future holds and to be a part of the exciting advancements that are sure to come.
- 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krymancer/Krymancer/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krymancer/Krymancer/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Krymancer/Krymancer/output/github-contribution-grid-snake.svg" />
-</picture>
+## 🧐 What do I do?
+
+So I started learning about programming in 2014, and sice then when I have an Idea I try to make it, or at least have fun trying
+
+I like to make things from scratch, understand how things work and try to make them better
+
+## 🤓 My "stack"
+
+- **#️⃣ C#/dotnet** Love this language and the ecosystem. Used for a long time in bigge backend projets and professionally.
+
+- **🕸️ Javascript** Who doesn't heard of it? For better or for worse I had to use a lot. Currently I'm using a lot of NextJS and React, but I really like SolidJS.
+
+- **🦀 Rust** The most blazinly fast language, if you don't if you have skill issues
+
+- **⚡ Zig** Really excited about. It's kinda like C but modern.
+
+- **🐍 Python** Use it mostly for IA and ML stuff
+
+- **🤖 C/C++** Been using C and C++ for learning data structures and in competitive programming since I started learn programing
+
+## 😁 Want to contact me?
+
+- **Email:** [junior.nascm@gmail.com](mailto:junior.nascm@gmail.com)
+- **Discord:** krymancer
