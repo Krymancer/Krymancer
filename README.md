@@ -24,7 +24,7 @@ I like to make things from scratch, understand how things work and try to make t
 
 - **🐍 Python** Use it mostly for IA and ML stuff
 
-- **⚙️ Ocaml* Really like functional programing, ocaml is great
+- **⚙️ Ocaml** Really like functional programing, ocaml is great
 
 
 ## 😁 Want to contact me?
