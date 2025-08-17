@@ -2,7 +2,7 @@
 
 ## 🤔 Who am I?
 
-Hi, I'm a 24yo crazy brazilian guy who loves to code and make cool stuff
+Hi, I'm a crazy brazilian guy who loves to code and make cool stuff
 
 ## 🧐 What do I do?
 
@@ -16,15 +16,18 @@ I like to make things from scratch, understand how things work and try to make t
 
 - **🕸️ Javascript** Who doesn't heard of it? For better or for worse I had to use a lot. Currently I'm using a lot of NextJS and React, but I really like SolidJS.
 
-- **🦀 Rust** The most blazinly fast language, if you don't if you have skill issues
+- **⚡ Zig** It's almost better than C.
+ 
+- **🤖 C/C++** Been using C and C++ for learning data structures and in competitive programming since I started learn programing
 
-- **⚡ Zig** Really excited about. It's kinda like C but modern.
+- **🦀 Rust** The most blazinly fast language, if you don't if you have skill issues
 
 - **🐍 Python** Use it mostly for IA and ML stuff
 
-- **🤖 C/C++** Been using C and C++ for learning data structures and in competitive programming since I started learn programing
+- **⚙️ Ocaml* Really like functional programing, ocaml is great
+
 
 ## 😁 Want to contact me?
 
-- **Email:** [junior.nascm@gmail.com](mailto:junior.nascm@gmail.com)
+- **Email:** [krymancer@protonmail.com](mailto:krymancer@protonmail.com)
 - **Discord:** krymancer
